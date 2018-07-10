@@ -1,7 +1,10 @@
 # Build your say_hello method here
 
-def say_hello(name="Ruby Programmer")
-  puts "Hello #{name}!"
-end
+#def say_hello(name="Ruby Programmer")
+ # puts "Hello #{name}!"
+#end
 
-puts say_hello
+#puts say_hello
+
+name= "aarushi"
+puts name.upcase
